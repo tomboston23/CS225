@@ -1,2 +1,2 @@
 # CS225
-tbost4 ece225 code
+tbost4 cs225 code
